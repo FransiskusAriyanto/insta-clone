@@ -73,7 +73,7 @@ const ProfileHeader = () => {
 
         <Flex alignItems={"center"} gap={4}>
           <Text fontSize={"sm"} fontWeight={"bold"}>
-            Frato
+            Fransiskus Ariyanto
           </Text>
         </Flex>
         <Text fontSize={"sm"}>Full-Stack Developer at MII</Text>

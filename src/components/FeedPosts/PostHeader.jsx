@@ -6,7 +6,7 @@ const PostHeader = ({ username, avatar }) => {
       justifyContent={"space-between"}
       alignItems={"center"}
       w={"full"}
-      my={2}
+      mt={10}
     >
       <Flex alignItems={"center"} gap={2}>
         <Avatar src={avatar} alt='user profile pic' size={"sm"} />
